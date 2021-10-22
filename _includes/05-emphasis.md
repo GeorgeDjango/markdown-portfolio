@@ -1,3 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like **bold** or *italics*) to identify keywords, programming languages, or skills. 
+Check out the **bold** *Italian man*! 
 
-**_Check it out!_**
+**_Check him out!_**
